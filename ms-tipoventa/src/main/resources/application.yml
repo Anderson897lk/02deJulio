@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ms-tipoventa
+  profiles:
+    active: development
+  config:
+    import: optional:configserver:http://Cherman:202211951@localhost:7070
