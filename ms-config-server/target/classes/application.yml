@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/cher-yami/Sistema-De-Ventas.git
+          uri: https://github.com/Anderson897lk/02deJulio.git
           searchPaths: config-data
           default-label: main
   security:
